@@ -1,0 +1,5 @@
+resources\BaseClass.class
+com\mycompany\app\App.class
+pageObjects\LandingPage.class
+pageObjects\LoginPage.class
+pageObjects\PortalHomePage.class
